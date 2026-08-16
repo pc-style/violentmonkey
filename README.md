@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference.** This repository is archived and retained only as an upstream reference; do not use it for new work.
+>
+> **Upstream:** [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)  
+> **Maintained pc-style delta:** **none** (the only pc-style commit is this archive notice).  
+> The upstream history and MIT License and provenance notices are preserved. Use the upstream repository for current code, releases, issues, and security updates.
+
+---
+
 # Violentmonkey
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
